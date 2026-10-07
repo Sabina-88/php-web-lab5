@@ -2,7 +2,7 @@
 
 $dsn = 'mysql:host=127.0.0.1;dbname=practicum4;charset=utf8mb4';
 $username = 'root';
-$password = 'SabinaMySQL88?';
+$password = 'Пароль';
 
 try {
     $pdo = new PDO($dsn, $username, $password, [
